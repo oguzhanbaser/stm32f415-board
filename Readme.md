@@ -1,5 +1,5 @@
 
-# STM32f415 Geliştirici Kartı
+# STM32F415 Geliştirici Kartı
 
 Karadeniz Teknik Üniversitesi' nde hocamız Prof. Dr. İsmail KAYA' nın danışmanlığında gerçekleştirdiğimiz devre kartımızın Altium çizim dosyalarını paylaştık. Bu geliştirici kartı ile ST' nin verdiği NUCLEO kartlarında olduğu gibi ek bir ST-Link gerekmeden USB kullanarak programlama, debug ve seri port bağlantısı gerçekleştirilebilmektedir. ST-Link' in yüklenebilmesi için gerekli adımlara [bağlantıdan](#) ulaşabilirsiniz.
 
@@ -12,7 +12,6 @@ Bu çalışmayı beraber gerçekleştridiğim bağlantıdaki sitenin sahibi Arş
 - 2 potansiyometre
 - 1 RGB LED (Timer kanallarına bağlı)
 - Dahili ST-Link V2.1 (Sanal COM Port ve yığın bellek)
-- Mbed OS Desteği
 - 2 DAC
 - 2 CAN (1 Master, 1 Slave)
 
