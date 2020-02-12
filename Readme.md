@@ -18,4 +18,4 @@ Bu çalışmayı beraber gerçekleştridiğim bağlantıdaki sitenin sahibi Arş
 Devrenin görüntüsü aşağıdaki gibidir.
 
 <img src="images/board_top.png" width="300px" height="400px"></img>
-<img src="images/board_top_3d.png" width="300px" height="400px"></img>
+<img src="images/board_gif.gif" width="300px" height="400px"></img>
