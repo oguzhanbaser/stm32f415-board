@@ -5,7 +5,7 @@ Karadeniz Teknik Üniversitesi' nde hocamız Prof. Dr. İsmail KAYA' nın danı�
 
 Bu çalışmayı beraber gerçekleştridiğim bağlantıdaki sitenin sahibi Arş. Gör. Mehmet Ali KÜÇÜK hocama da ayrıyeten teşekkür etmek isterim.
 
- Merkez işlemci olarak STM32F415 kullanılmıştır. ST-Link kısmında ise STM32F103CBT6 kullanılmıştır. ST-Link için seçilen işlemcinin 128kb hafızaya sahip olması önemlidir. 64kb hafızalı olan modeline ST-Link' in yeni Firmware' ni yüklemeniz hafıza yetersizliğinden mümkün olmayacaktır. 
+ Merkez denetleyici olarak STM32F415 kullanılmıştır. ST-Link kısmında ise STM32F103CBT6 kullanılmıştır. ST-Link için seçilen denetleyicinin 128kb hafızaya sahip olması önemlidir. 64kb hafızalı olan modeline ST-Link' in yeni Firmware' ni yüklemeniz hafıza yetersizliğinden mümkün olmayacaktır. 
 
  Tasarlanan geliştirici kartının özellikleri:
 - 8 adet LED
